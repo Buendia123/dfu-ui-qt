@@ -1,0 +1,2 @@
+make
+python app.py
